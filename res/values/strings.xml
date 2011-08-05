@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LunchList!</string>
+    <string name="app_name">LunchList</string>
+    <string name="name_label">Name:</string>
+    <string name="address_label">Address:</string>
+    <string name="save">Save</string>
+    <string name="type_label">Type:</string>
+    <string name="take_out">Take-Out</string>
+    <string name="sit_down">Sit-Down</string>
+    <string name="delivery">Delivery</string>
+</resources>
